@@ -10,7 +10,7 @@ If your app is quite big and there's a lot to save, your app might crash because
 
 This library is distributed "as is", see the `LICENSE.md` file!
 
-Please also note that the testing for this library is not complete, because you can't delete classes, functions and constants. So please test it yourself for your application before going into production.
+Please also note that the testing for this library is not complete, because you can't delete declared classes, functions and constants without runkit. So please test it yourself for your application before going into production.
 
 ## What it serializes
 
